@@ -2,7 +2,7 @@
 Angular 4 With Bootstrap 3.3.7 that Implements Cron Expression Builder. Forked From https://github.com/claudiuconstantin/cron-editor. Graphically build a CRON expression using Angular 2+
 
 
-Just Download this project and root / Go to the project directory in the command prompt and execute the following command.
+Just Download this project, Go to the project root directory in the command prompt and execute the following command.
 
 > npm install
 
